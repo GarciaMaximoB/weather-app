@@ -1,0 +1,24 @@
+footer {
+
+  color: black;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer span {
+  margin: 0 auto;
+  width: 100%;
+}
+
+footer a {
+  text-decoration: underline;
+  color: black;
+}
